@@ -1,4 +1,4 @@
-# interactive optimisation of skinning
+# Interactive optimisation of skinning
 
 **Batchelor thesis**: A Blender plug-in for interactive optimisation of skinning in skeletal animation (04 October 2020)
 
