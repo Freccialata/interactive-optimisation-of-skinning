@@ -1,10 +1,10 @@
 # Interactive optimisation of skinning
 
-### **Batchelor thesis**: A Blender plug-in for the interactive optimisation of skinning in skeletal animation (04 October 2020)
+### **Batchelor thesis**: A Blender plug-in for the interactive optimisation of skinning in skeletal animation
 
 [read here](https://drive.google.com/file/d/16UQCq38s_jS0FGkbHphWBnC_CpxsP8rE/view?usp=sharing)
 
-Gianluca Rubino
+Gianluca Rubino - 04 October 2020
 
 *Università degli Studi di Milano - Dipartimento di Informatica*
 
