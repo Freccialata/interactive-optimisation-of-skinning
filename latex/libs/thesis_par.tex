@@ -1,0 +1,37 @@
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, width=150mm, top=25mm, bottom=25mm, bindingoffset=6mm]{geometry}
+\usepackage{epsfig}
+\usepackage{amssymb, amsmath}
+\usepackage{listings}
+\usepackage{url}
+
+\input{libs/thesis.sty}
+
+\newcommand{\mat}[1]{\mathrm{#1}}
+\newcommand{\vect}[1]{ \boldsymbol{ \mathrm{#1} } }
+\newcommand{\citeInFigure}[1]{\footnotesize{Image from: #1} }
+
+% Default fixed font does not support bold face
+\DeclareFixedFont{\ttb}{T1}{txtt}{bx}{n}{12} % for bold
+\DeclareFixedFont{\ttm}{T1}{txtt}{m}{n}{12}  % for normal
+
+% Custom colors
+\usepackage{color}
+\definecolor{darkgray}{rgb}{0.35,0.35,0.35}
+\definecolor{lightgray}{rgb}{0.94,0.94,0.94}
+
+\lstset{language={Python},
+backgroundcolor=\color{lightgray},
+basicstyle=\linespread{1}\scriptsize\ttfamily,
+keywordstyle=\bf{\scriptsize\ttfamily},
+commentstyle=\color{darkgray},
+tabsize=2,
+breakatwhitespace=false,
+breaklines=true,
+captionpos=b,
+keepspaces=true,
+numbersep=5pt,
+showspaces=false,
+showstringspaces=false,
+showtabs=false
+}

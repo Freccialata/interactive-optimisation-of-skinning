@@ -2,7 +2,7 @@
 
 ### **Batchelor's thesis**
 
-[read here](https://drive.google.com/file/d/16UQCq38s_jS0FGkbHphWBnC_CpxsP8rE/view?usp=sharing)
+[read here](./thesis.pdf)
 
 Gianluca Rubino - 04 October 2020
 
